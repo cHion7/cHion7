@@ -54,9 +54,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/cHion7/cHion7/output/snake.svg" alt="Snake animation" />
-
-###
